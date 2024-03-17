@@ -13,6 +13,7 @@ export default function Features() {
                   <div className="featurs-icon btn-square rounded-circle bg-secondary mb-5 mx-auto">
                     {val.icon}
                   </div>
+    
                   <div className="featurs-content text-center">
                     <h5>{val.title}</h5>
                     <p className="mb-0">{val.descript}</p>
